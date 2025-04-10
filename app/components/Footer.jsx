@@ -17,19 +17,22 @@ const Footer = ({ isDarkMode }) => {
             alt="logo"
             className="w-6"
           />
-          ankit@gmail.com
+          ankitmodi87450@gmail.com
         </div>
       </div>
       <div className="text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6">
         <p>&copy; 2025 Ankit Modi. All rights reserved.</p>
         <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
           <li>
-            <a href="#" target="_blank">
+            <a href="https://github.com/Ankit87450" target="_blank">
               GitHub
             </a>
           </li>
           <li>
-            <a href="#" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/ankit-modi-517aa4217/"
+              target="_blank"
+            >
               LinkedIn
             </a>
           </li>
